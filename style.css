@@ -1,0 +1,28 @@
+* {
+    background-color: bisque;
+
+}
+
+h1 {
+    font-family:cursive;
+    font-size: 60px;
+    padding: 10px;
+
+}
+
+.banner h1{
+    margin: 50px;
+    outline: solid 4px orange;
+    border-style: groove;
+    display: flex;
+    background-color: rgb(223, 189, 116);
+    justify-content: center;
+}
+
+.recipe-card {
+    outline: solid 1px orange;
+    display: flex;
+    background-color: rgb(223, 189, 116);
+    justify-content: center;
+}
+
